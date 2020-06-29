@@ -434,3 +434,4 @@ INSERT
 	descricao )
 VALUES ('S-5013',
 'N',
+'Informações do FGTS consolidadas por contribuinte' );
